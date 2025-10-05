@@ -1,0 +1,83 @@
+===========================
+FoundTheReason Debug Questions (v1.0.0)
+===========================
+
+Note: The Debug version hasn’t been updated yet; it remains at v1.0.0.
+This file is included for reference purposes only.
+Quick Scan and More Information features are NOT available in this version.
+
+---------------------------
+1. App Launch
+---------------------------
+Q: Did the app launch successfully without errors?  
+A: Yes, the app launches and the main window appears correctly.  
+Tip: If the window fails to open, check that all .NET dependencies are installed.
+
+---------------------------
+2. Button Functionality
+---------------------------
+Q: Are all buttons functional? (Scan Now)  
+A: Yes, the Scan Now button starts the full scan process.  
+Tip: Quick Scan is only available in v1.1.0-beta.
+
+---------------------------
+3. Progress Bar
+---------------------------
+Q: Does the progress bar update during the scan?  
+A: Yes, the progress bar shows progress according to the scan stage.  
+Tip: If it seems stuck, the app may be paused or the system is busy.
+
+---------------------------
+4. Results Output
+---------------------------
+Q: Does the results textbox show scan results?  
+A: Yes, results for disk space, RAM, CPU load, and application errors are displayed.  
+Tip: Look for warning symbols (⚠️) which indicate potential risks.
+
+---------------------------
+5. Notifications
+---------------------------
+Q: Do notifications appear if a potential issue is detected?  
+A: Yes, if the “Notify me if risk is found” checkbox is enabled.  
+Tip: Notifications are optional; users can enable or disable them.
+
+---------------------------
+6. Log File Saving
+---------------------------
+Q: Does saving results to a log file work?  
+A: Yes, the file FoundTheReasonResults.txt is created in the same folder and contains the scan output.  
+Tip: Ensure you have write permissions in the folder.
+
+---------------------------
+7. App Stability
+---------------------------
+Q: Does the app remain stable throughout the scan?  
+A: Yes, no crashes or freezes observed.  
+Tip: Run the scan when the system is idle for best results.
+
+---------------------------
+8. False Positives
+---------------------------
+Q: Are any false positives detected by antivirus software?  
+A: Possibly; new apps may be flagged as suspicious even if safe.  
+Tip: Users can whitelist the app if they trust it.
+
+---------------------------
+9. Other Observations
+---------------------------
+Q: Any other bugs, crashes, or unexpected behavior observed?  
+A: No major issues reported in v1.0.0 Debug version.  
+Tip: Report any unexpected behavior in the GitHub Issues section.
+
+---------------------------
+10. Instructions for Debuggers
+---------------------------
+- Run the app and perform a full scan using the Scan Now button.  
+- Check the results for all drives, available RAM, CPU load, and any application errors.  
+- Ensure the progress bar and status messages update correctly.  
+- Verify that notifications and log file saving work as expected.  
+- Report all findings, screenshots, or error messages to GitHub Issues.
+
+---------------------------
+End of Debug Questions (v1.0.0)
+---------------------------
