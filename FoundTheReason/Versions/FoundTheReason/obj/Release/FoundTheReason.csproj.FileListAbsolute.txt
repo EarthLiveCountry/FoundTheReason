@@ -1,0 +1,13 @@
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\bin\Release\FoundTheReason.exe.config
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\bin\Release\FoundTheReason.exe
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\bin\Release\FoundTheReason.pdb
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\bin\Release\System.CodeDom.dll
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\bin\Release\System.CodeDom.xml
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundTheReason.csproj.AssemblyReference.cache
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundTheReason.MainForm.resources
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundTheReason.Properties.Resources.resources
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundTheReason.csproj.GenerateResource.cache
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundTheReason.csproj.CoreCompileInputs.cache
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundThe.AF82187C.Up2Date
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundTheReason.exe
+C:\Projects\VisualStudio\FoundTheReason\FoundTheReason\obj\Release\FoundTheReason.pdb
