@@ -4,6 +4,9 @@
 
 ---
 
+## QUICK NOTE
+
+FoundTheReason is officialy switching the way to install it, as part of the latest upcoming update as the **redesign**, Expected lots of changes.
 ## Features
 
 - Scan user-accessible **Windows Event Logs** for error patterns.
